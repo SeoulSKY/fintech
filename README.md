@@ -1,7 +1,7 @@
 # Fintech Organization
 **For Users: Installing and using the program:**
 
-This is a website so you don't need to install anything to use this program. The website is running on a Linux server and it's available 24 hours! Just visit the following address: http://172.105.111.35:8080
+This is a website so you don't need to install anything to use this program. The website is running on a Linux server and it's available 24 hours! Click [here] (http://172.105.111.35:8080)
 
 **For Developers: Installing and running product from GitLab:**
 
